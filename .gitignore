@@ -1,0 +1,15 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.idea/
+.DS_Store
+*.db
+*.log
+*.exe
+*.zip
+/static/input.jpg
+/static/output.jpg
