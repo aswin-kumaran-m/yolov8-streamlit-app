@@ -13,3 +13,7 @@ venv/
 *.zip
 /static/input.jpg
 /static/output.jpg
+# Ignore build folders and large files
+build/
+dist/
+*.pt
